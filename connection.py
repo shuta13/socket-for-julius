@@ -31,4 +31,6 @@ while True:
     f.close
     print( strTemp )
     break
+
   data = ""
+
